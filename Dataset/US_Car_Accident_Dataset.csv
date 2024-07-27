@@ -1,4 +1,4 @@
-State,Atmospheric_Condition,Crash Date,Fatalities_in_Crash,Roadway,Age,Alcohol Results,Person Type,Drug Involvement,Race,Gender,Injury Severity,Crash Date.year,Crash Date.month,Crash Date.day-of-month,Crash Date.day-of-week
+State,Atmospheric_Condition,Crash_Date,Fatalities_in_Crash,Roadway,Age,Alcohol Results,Person Type,Drug Involvement,Race,Gender,Injury Severity,Crash Date.year,Crash Date.month,Crash Date.day-of-month,Crash Date.day-of-week
 Alaska,Clear,2011-01-05,1,Rural-Principal Arterial-Interstate,27,0.0,Driver of a Motor Vehicle In-Transport,Yes,,Male,Non-incapacitating Evident Injury (B),2011,1,5,3
 Alaska,Clear,2011-01-05,1,Rural-Principal Arterial-Interstate,60,0.0,Driver of a Motor Vehicle In-Transport,No,White,Female,Fatal Injury (K),2011,1,5,3
 Arizona,Clear,2011-01-01,1,Urban-Other Principal Arterial,24,,Passenger of a Motor Vehicle In-Transport,Not Reported,,Female,No Injury (O),2011,1,1,6
